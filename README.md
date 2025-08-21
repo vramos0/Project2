@@ -1,10 +1,10 @@
 # Project 2 README
 
-Student 1: Full Name 1 (123456789)
+Student 1: Victoria Ramos (920012149)
 Student 2: Full Name 2 (123456798)
 
 ## Project Status
-This the current status of the project ...
+'Panel' is in progress.
 
 ## Known Issues
 The project fails to function properly in ...
